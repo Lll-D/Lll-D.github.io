@@ -1,0 +1,2 @@
+webpackJsonp([18],{Pis5:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",{attrs:{id:"Software"}},[this._v("\n    屹尧科技\n")])},staticRenderFns:[]};var a=n("VU/8")({name:"Product_Preekem",data:function(){return{}}},r,!1,function(e){n("V+a0")},"data-v-34d3f728",null);t.default=a.exports},"V+a0":function(e,t){}});
+//# sourceMappingURL=18.cba11f51c53429063e6b.js.map
